@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Quel est le lien entre Ace et Luffy ?",
+    "category": "One Piece",
+    "image": "https://www.nicepng.com/png/full/54-547970_one-piece-simple-png-images-one-piece-png.png",
+    "answers": [
+      "Frères",
+      "Amis",
+      "Père et fils",
+      "Amants"
+    ],
+    "right_answer": "Frères",
+    "difficulty": 0
+  },
+  {
+    "title": "Dans l’arc Enies Lobby, qui est l’antagoniste principal ?",
+    "category": "One Piece",
+    "image": "https://i.imgur.com/rkVHBU0.png",
+    "answers": [
+      "Arlong",
+      "Crododile",
+      "Barbe noir",
+      "Rob Lucci"
+    ],
+    "right_answer": "Rob Lucci",
+    "difficulty": 1
+  },
+  {
+    "title": "Comment Luffy c’est fait la cicatrice en dessous l’oeil ?",
+    "category": "One Piece",
+    "image": "https://i.pinimg.com/originals/50/27/fa/5027fa78cdfadf290f924abcbe7bfc30.png",
+    "answers": [
+      "Avec un couteau pour impressionner shanks",
+      "En se batant avec ces frères",
+      "Un brigand avec une bouteille en verre",
+      "Garp lui a mis une beigne"
+    ],
+    "right_answer": "Avec un couteau pour impressionner shanks",
+    "difficulty": 2
+  },
+  {
+    "title": "Quel empereur meurt au cour de l’histoire ?",
+    "category": "One Piece",
+    "image": "https://wallpapercave.com/wp/wp7517344.png",
+    "answers": [
+      "Big Mom",
+      "Barbe blanche",
+      "Kaido",
+      "Shanks le roux"
+    ],
+    "right_answer": "Barbe blanche",
+    "difficulty": 1
+  },
+  {
+    "title": "Quel est le nom du peuple de Kurapika ?",
+    "category": "HxH",
+    "image": "https://cdn.custom-cursor.com/packs/2011/pack2637.png",
+    "answers": [
+      "Clan kuruta",
+      "Zoldik",
+      "Clan Nostard",
+      "Hui Guo Rou"
+    ],
+    "right_answer": "Clan kuruta",
+    "difficulty": 1
+  },
+  {
+    "title": "Quel métier Leolio veut il fare au debut de l’anime ?",
+    "category": "HxH",
+    "image": "https://i.pinimg.com/originals/1e/dc/e8/1edce8b021168e30773943b48b4901c9.jpg",
+    "answers": [
+      "Médecin",
+      "Charpentier",
+      "Ingénieur",
+      "Garde royal"
+    ],
+    "right_answer": "Médecin",
+    "difficulty": 0
+  },
+  {
+    "title": "Qui est le premier antagoniste de l’anime ?",
+    "category": "HxH",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Hunter_x_hunter.png",
+    "answers": [
+      "Hisoka",
+      "Karuto",
+      "Kuroro",
+      "Pufu"
+    ],
+    "right_answer": "Hisoka",
+    "difficulty": 0
+  },
+  {
+    "title": "Qui est l’antagoniste principal dans l’arc des fourmis chimères ?",
+    "category": "HxH",
+    "image": "https://photos.tf1.fr/780/780/perso-showpage-a92a19-f0d33a-0@1x.png",
+    "answers": [
+      "Meruem",
+      "Pita",
+      "Pufu",
+      "La brigade fantome"
+    ],
+    "right_answer": "Meruem",
+    "difficulty": 0
+  },
+  {
+    "title": "Comment s’appelle le dieu de la mort qui laissa tomber son death note sur terre ?",
+    "category": "Death Note",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Death_Note%2C_Book.svg/1200px-Death_Note%2C_Book.svg.png",
+    "answers": [
+      "Ryuk",
+      "Gook",
+      "Rem",
+      "Maedra"
+    ],
+    "right_answer": "Ryuk",
+    "difficulty": 0
+  },
+  {
+    "title": "Quel est l’adversaire principal de Kira ?",
+    "category": "Death Note",
+    "image": "https://i.pinimg.com/originals/21/e4/83/21e483db64d6fe5624a5208452c269d8.png",
+    "answers": [
+      "U",
+      "K",
+      "F",
+      "L"
+    ],
+    "right_answer": "L",
+    "difficulty": 0
+  },
+  {
+    "title": "Quel est le metier du père du protagoniste dans Death Note ?",
+    "category": "Death Note",
+    "image": "https://i.pinimg.com/originals/82/1a/20/821a20bf48528bdd20d2949bd9ee5694.png",
+    "answers": [
+      "Policier",
+      "Chef de police",
+      "Cuisinier",
+      "Fosoyeur"
+    ],
+    "right_answer": "Chef de police",
+    "difficulty": 0
+  },
+  {
+    "title": "Comment s'appelle le village de Naruto ?",
+    "category": "Naruto",
+    "image": "https://i.skyrock.net/5602/99845602/pics/3309490160_1_5_PrOJGFrN.png",
+    "answers": [
+      "Konoha",
+      "Kiri",
+      "Kumo",
+      "Konoba"
+    ],
+    "right_answer": "Konoha",
+    "difficulty": 0
+  },
+  {
+    "title": "Quel est le nom de famille de Naruto ?",
+    "category": "Naruto",
+    "image": "https://cdn.pixabay.com/photo/2021/01/12/12/35/naruto-5911333_1280.png",
+    "answers": [
+      "Uzumaki",
+      "Susuki",
+      "Yamakasi",
+      "Ushiha"
+    ],
+    "right_answer": "Uzumaki",
+    "difficulty": 0
+  },
+  {
+    "title": "Quel est le 1er homme de l'équipage de Gold Roger ?",
+    "category": "One Piece",
+    "image": "https://i.imgur.com/ZKPY0Lq.png",
+    "answers": [
+      "Silver Reyleigh",
+      "Crocus",
+      "Scopper Gaban",
+      "Tom"
+    ],
+    "right_answer": "Silver Reyleigh",
+    "difficulty": 1
+  },
+  {
+    "title": "Appelé Nicky Larson dans la version française, quel est son nom japonais ?",
+    "category": "Nicky Larson",
+    "image": "https://image.noelshack.com/fichiers/2017/02/1484419536-city-hunter1.jpg",
+    "answers": [
+      "Ryô Saeba",
+      "Etsuko Kashima",
+      "Yôichi Shibata",
+      "hideyuki makimura"
+    ],
+    "right_answer": "Ryô Saeba",
+    "difficulty": 1
+  },
+  {
+    "title": "Comment s'appelle le navire de gold roger ?",
+    "category": "One Piece",
+    "image": "https://i.imgur.com/vktlYR7.png",
+    "answers": [
+      "Oro Jackson",
+      "Moby Dick",
+      "Noah",
+      "Black pearl"
+    ],
+    "right_answer": "Oro Jackson",
+    "difficulty": 1
+  },
+  {
+    "title": "Dans one punch man combien y a t-il de héros de classe S ?",
+    "category": "One Punch man",
+    "image": "https://www.pngmart.com/files/13/One-Punch-Man-Saitama-PNG-Photos.png",
+    "answers": [
+      "17",
+      "65",
+      "108",
+      "43"
+    ],
+    "right_answer": "17",
+    "difficulty": 2
+  },
+  {
+    "title": "Pourquoi Ochako veux devenir une super héroïne ?",
+    "category": "My hero academia",
+    "image": "https://p.kindpng.com/picc/s/449-4494737_my-hero-academia-uraraka-transparent-hd-png-download.png",
+    "answers": [
+      "L'argent",
+      "La gloire",
+      "Sauver des vies",
+      "La vengeance"
+    ],
+    "right_answer": "L'argent",
+    "difficulty": 2
+  }
+]
